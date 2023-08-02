@@ -1,0 +1,12 @@
+C:\Users\Principal\OneDrive\Escritorio\ProjectTF\Capa_Entity\bin\Debug\Capa_Entity.dll
+C:\Users\Principal\OneDrive\Escritorio\ProjectTF\Capa_Entity\bin\Debug\Capa_Entity.pdb
+C:\Users\Principal\OneDrive\Escritorio\ProjectTF\Capa_Entity\obj\Debug\Capa_Entity.csproj.AssemblyReference.cache
+C:\Users\Principal\OneDrive\Escritorio\ProjectTF\Capa_Entity\obj\Debug\Capa_Entity.csproj.CoreCompileInputs.cache
+C:\Users\Principal\OneDrive\Escritorio\ProjectTF\Capa_Entity\obj\Debug\Capa_Entity.dll
+C:\Users\Principal\OneDrive\Escritorio\ProjectTF\Capa_Entity\obj\Debug\Capa_Entity.pdb
+C:\Users\prueba\Downloads\_Neuler\ProjectTF\ProjectTF\Capa_Entity\bin\Debug\Capa_Entity.dll
+C:\Users\prueba\Downloads\_Neuler\ProjectTF\ProjectTF\Capa_Entity\bin\Debug\Capa_Entity.pdb
+C:\Users\prueba\Downloads\_Neuler\ProjectTF\ProjectTF\Capa_Entity\obj\Debug\Capa_Entity.csproj.AssemblyReference.cache
+C:\Users\prueba\Downloads\_Neuler\ProjectTF\ProjectTF\Capa_Entity\obj\Debug\Capa_Entity.csproj.CoreCompileInputs.cache
+C:\Users\prueba\Downloads\_Neuler\ProjectTF\ProjectTF\Capa_Entity\obj\Debug\Capa_Entity.dll
+C:\Users\prueba\Downloads\_Neuler\ProjectTF\ProjectTF\Capa_Entity\obj\Debug\Capa_Entity.pdb
